@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTImplementationEFS", "JWTImplementationEFS\JWTImplementationEFS.csproj", "{BAE30075-3883-4569-8520-911F1831E441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE30075-3883-4569-8520-911F1831E441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE30075-3883-4569-8520-911F1831E441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE30075-3883-4569-8520-911F1831E441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE30075-3883-4569-8520-911F1831E441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DD84EFA-9F79-4D4E-AFB0-F8D645619786}
+	EndGlobalSection
+EndGlobal
